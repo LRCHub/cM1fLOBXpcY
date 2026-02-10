@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "礼儀作法",
+  "base_artist": "一二三",
+  "createdAt": "2026-02-10T10:45:55.428839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "礼儀作法",
+      "artist": "一二三",
+      "has_synced": true,
+      "path": "select/01_礼儀作法_一二三.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "礼儀作法",
+      "artist": "一二三",
+      "has_synced": false,
+      "path": "select/pl_01_礼儀作法_一二三.txt"
+    }
+  ]
+}
